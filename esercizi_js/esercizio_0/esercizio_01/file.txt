@@ -1,0 +1,21 @@
+ESERCIZI JAVASCRIPT - Funzioni e Array:
+
+riscaldamento:
+
+Dato un array vuoto names = [] 
+utilizzare il metodo giusto per 
+aggiungere all'interno i nomi degli studenti della vostra aula studio.
+
+Scrivere una funzione che prenda in input un numero intero (massimo 9999) 
+conti da quante cifre è formato. 
+
+Esempi: 
+
+Input : 9 Output : 1 cifra
+
+Input : 99 Output : 2 cifre Super indizio: anche le stringhe hanno la proprieta' .length
+
+
+
+
+pushate tutto su github

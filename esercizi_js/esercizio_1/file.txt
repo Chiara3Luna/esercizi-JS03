@@ -1,0 +1,18 @@
+ES1: 
+Scrivi una funzione che, dato un numero, 
+simuli un gioco di dadi tra due utenti.
+Stampare il giocatore che ha totalizzato più punti, 
+tenendo conto che:
+ogni dado ha 6 facce
+ogni giocatore tirerà il dado n volte
+Per ogni giocatore:
+generare un numero casuale 
+per ogni tiro che effettuera’,
+ed ogni tiro sarà sommato ai precedenti 
+per calcolare il punteggio finale del giocatore rispettivo.
+
+Suggerimento:
+
+Usiamo questa formula per generare un numero random
+
+Math.floor(Math.random() * (6 - 1) + 1);

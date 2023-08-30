@@ -1,0 +1,15 @@
+ES3:  
+Scrivi due funzioni:
+dato un array: 
+
+let numbers = [10, 12, 78, -4, -20, 11];
+
+
+una che prenda in input un array di numeri
+e restituisca il maggiore
+l'altra che restituisca il minore.
+
+Suggerimento:
+ 
+utilizzare Math.max() e Math.min(); 
+consultare per bene la documentazione.
